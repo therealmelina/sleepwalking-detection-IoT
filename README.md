@@ -70,26 +70,6 @@ I(t) = { 0% if Δt < 10s
 
 Full derivation: [`docs/scientific-assumptions.docx`](docs/scientific-assumptions.docx)
 
-## Getting Started
-
-1. Install Arduino IDE and the `Adafruit MPU6050` library (Library Manager)
-3. Open `arduino/motion_detection/motion_detection.ino`
-4. Select **Arduino Nano** board
-5. Upload
-6. Open Serial Monitor at **9600 baud**
-
-See the [User Guide](docs/user-guide.docx) for operational instructions.
-
-## Repository Structure
-
-├── arduino/ → Firmware source
-
-├── docs/ → User guide, scientific paper, work log, costs
-
-├── images/ → Circuit diagrams and product renders
-
-└── README.md
-
 
 ## Team
 
