@@ -70,8 +70,6 @@ I(t) = { 0% if Δt < 10s
 
 Full derivation: [`docs/scientific-assumptions.docx`](docs/scientific-assumptions.docx)
 
-Code and Algorithm: []
-
 
 ## Team
 
