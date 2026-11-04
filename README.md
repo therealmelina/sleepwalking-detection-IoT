@@ -68,7 +68,7 @@ I(t) = { 0% if Δt < 10s
 { 100% PWM if Δt ≥ 20s
 
 
-Full derivation: [`docs/scientific-assumptions.docx`](docs/scientific-assumptions.docx)
+Full derivation: [`scientific-assumptions`](scientific-assumptions.md)
 
 
 ## Team
